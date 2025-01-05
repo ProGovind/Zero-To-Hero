@@ -10,6 +10,7 @@
 
 
 
+
 #Reminder
 
 #Subtraction
@@ -24,8 +25,10 @@
 
 
 #rebase changes
-=======
+
 
 
 #change main
 
+
+#mergeChanges
