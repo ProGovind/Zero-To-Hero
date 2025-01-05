@@ -5,8 +5,16 @@
 
 
 
+
 #Percentage
 
 
 
 #Reminder
+
+#Subtraction
+
+
+
+#Multiplication
+
